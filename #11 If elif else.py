@@ -162,48 +162,48 @@ Created on Wed Jan  3 18:08:30 2024
 #     else:
 #         print(f"{produxta} do'konimizda yo'q.")
 
-# # 5-topshiriq
-# mahsulotlar=["un","yog'","go'sht","tuxum","piyoz","sabzi","non","pomidor","bodring","sut"]
-# savat=[]
-# bor_mahsulotlar=[]
-# mavjud_emas=[]
-# print("5 ta mahsulot kiriting:")
-# for mahsulot in range(5): # 5 marta takrorlanadi
-#     savat.append(input(f"{mahsulot+1}-mahsulot\n>>>"))
-# for produxta in savat: # savat ichidagi produxta
-#     if produxta in mahsulotlar: # mahsulotlar ichida produxta bormi
-#         bor_mahsulotlar.append(produxta)
-#     else:
-#         mavjud_emas.append(produxta) 
-# if len(mavjud_emas)==0: 
-#     print("Siz so'ragan barcha mahsulotlar bor.")
-# else:
-#     print("Quyidagi mahsulotlar mavjud emas:",mavjud_emas)
-#     # if mavjud_emas:  kodi agar ro'yxatda element bo'lsa degani
+# 5-topshiriq
+mahsulotlar=["un","yog'","go'sht","tuxum","piyoz","sabzi","non","pomidor","bodring","sut"]
+savat=[]
+bor_mahsulotlar=[]
+mavjud_emas=[]
+print("5 ta mahsulot kiriting:")
+for mahsulot in range(5): # 5 marta takrorlanadi
+    savat.append(input(f"{mahsulot+1}-mahsulot\n>>>"))
+for produxta in savat: # savat ichidagi produxta
+    if produxta in mahsulotlar: # mahsulotlar ichida produxta bormi
+        bor_mahsulotlar.append(produxta)
+    else:
+        mavjud_emas.append(produxta) 
+if len(mavjud_emas)==0: 
+    print("Siz so'ragan barcha mahsulotlar bor.")
+else:
+    print("Quyidagi mahsulotlar mavjud emas:",mavjud_emas)
+    # if mavjud_emas:  kodi agar ro'yxatda element bo'lsa degani
 
-# # 5-topshiriqning yana boshqcha bir ko'rinish
-# mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
-#                'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
+# 5-topshiriqning yana boshqcha bir ko'rinish
+mahsulotlar = ['un', "yog'", "sovun", 'tuxum', 'piyoz',
+                'kartoshka', 'olma', 'banan', 'uzum', 'qovun']
 
 
-# savat = []
-# for n in range(5):
-#     savat.append(input(f"Savatga {n+1}-mahsulotni qo'shing: "))
+savat = []
+for n in range(5):
+    savat.append(input(f"Savatga {n+1}-mahsulotni qo'shing: "))
 
-# bor_mahsulotlar = []
-# mavjud_emas = []
-# for mahsulot in savat:
-#     if mahsulot in mahsulotlar:
-#         bor_mahsulotlar.append(mahsulot)
-#     else:
-#         mavjud_emas.append(mahsulot)
+bor_mahsulotlar = []
+mavjud_emas = []
+for mahsulot in savat:
+    if mahsulot in mahsulotlar:
+        bor_mahsulotlar.append(mahsulot)
+    else:
+        mavjud_emas.append(mahsulot)
 
-# if mavjud_emas:
-#     print("Do'konimizda quyidagi mahsulotlar yo'q:")
-#     for mahsulot in mavjud_emas:
-#         print(mahsulot)
-# else:
-#     print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
+if mavjud_emas:
+    print("Do'konimizda quyidagi mahsulotlar yo'q:")
+    for mahsulot in mavjud_emas:
+        print(mahsulot)
+else:
+    print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
 
 # 6-topshiriq login
 foydalanuvchilar=["akbar","jahon","akmal","shaxzod","anvar"]
