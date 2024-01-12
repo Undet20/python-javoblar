@@ -205,13 +205,13 @@ Created on Wed Jan  3 18:08:30 2024
 # else:
 #     print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
 
-# # 6-topshiriq login
-# foydalanuvchilar=["akbar","jahon","akmal","shaxzod","anvar"]
-# ism=input("Login kiriting:")
-# if ism.lower() in foydalanuvchilar:
-#     print("Login band. Boshqa login kiriting")
-# else:
-#     print("Xush kelibsiz")
+# 6-topshiriq login
+foydalanuvchilar=["akbar","jahon","akmal","shaxzod","anvar"]
+ism=input("Login kiriting:")
+if ism.lower() in foydalanuvchilar:
+    print("Login band. Boshqa login kiriting")
+else:
+    print("Xush kelibsiz")
 
 # 7-topshiriq
 son=int(input("Son kiriting: "))
