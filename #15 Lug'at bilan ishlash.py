@@ -115,15 +115,93 @@ Created on Sat Jan 13 09:21:15 2024
 # for tel in set(telefonlar.values()):
 #     print(tel.title())
 
-# Sets ma'lumot turi haqida-Bunday ma'lumot turi ham o'z tarkibi ichiga
-# string ro'yxat va lu'at kabi ma'lumotlarni qabul qiladi Misol
-toys={"ball","car","lamp","ball","bear","car"} # Diqqat! set ichidagi 
-# elementlar takrorlanmaydi
+# # Sets ma'lumot turi haqida-Bunday ma'lumot turi ham o'z tarkibi ichiga
+# # string ro'yxat va lu'at kabi ma'lumotlarni qabul qiladi Misol
+# toys={"ball","car","lamp","ball","bear","car"} # Diqqat! set ichidagi 
+# # elementlar takrorlanmaydi
+# print(toys)
 
+# # TOPSHIRIQLAR
+# # 1-TOPSHIRIQ. Python izohli lug'atini yaratish
+# print("Python izohli lug'ati:")
+# python_lugat={
+#     "print":"konsonga chiqarish funksiyasi",
+#     "int":"butun son",
+#     "float":"o'nlik son",
+#     "string":"matn",
+#     "list":"ro'yxat",
+#     "for":"takrorlash operatori",
+#     "set":"bir nechta bir xil matnlarni olib tashlash funksiyasi",
+#     "pop":"sug'urib olish metodi",
+#     "del":"o'chirish operatori",
+#     "len":"qiymat uzunligini tekshirish funksiyasi"
+#     }
+# for kalit in sorted(python_lugat): # lug'atni alifbo tartibida tartib-
+# # laymiz.
+#     print(f"{kalit}:\n{python_lugat[kalit]}") # tartiblangan holatda ek-
+# # ranga chiqaramiz.
 
+# # 2-topshiriq    Davlatlar va poytaxtlarni chiqarish
+# print("Davlatlar va ularning poytaxtlarini tuzamiz.")
+# davlatlar={
+#     "o'zbekiston":"toshkent",
+#     "qozog'iston":"ashxabot",
+#     "tojigiston":"dushanbe",
+#     "turkmaniston":"bishkek",
+#     "rossiya":"moskva",
+#     "koreya":'seul',
+#     "yaponiya":"tokyo",
+#     "hindiston":"dehli",
+#     "xitoy":"gongkong"
+#     }
+# for davlat in sorted(davlatlar):
+#     print(f"{davlat.capitalize()}ning puytaxti:\n{davlatlar[davlat]}")
+# print("\nEndi poytaxtlarni alifbo tartibida chiqaramiz:")
+# for d in sorted(davlatlar, key=davlatlar.get):
+#     print(d,":",davlatlar[d])
+    
+# # 3-topshiriq    
+# davlatlar={
+#     "o'zbekiston":"toshkent",
+#     "qozog'iston":"ashxabot",
+#     "tojigiston":"dushanbe",
+#     "turkmaniston":"bishkek",
+#     "rossiya":"moskva",
+#     "koreya":'seul',
+#     "yaponiya":"tokyo",
+#     "hindiston":"dehli",
+#     "xitoy":"gongkong"
+#     }
+# mamlakat=input("Istalgan davlatni kiriting:\n>>>")
+# # if mamlakat in davlatlar:
+# #     print(f"{mamlakat.capitalize()}ning poytaxti \
+# # {davlatlar[mamlakat].capitalize()}",)
+# # else:
+# #     print("Bunday davlat mavjud emas.")
+# print(davlatlar.get(mamlakat,"Bunday davlat mavjud emas"))
 
-
-
+# 4-topshiriq restoran menusini shakllantirish
+restoran_menusi={
+    "shashlik":11000,
+    "osh":28000,
+    "somsa":8000,
+    "manti":6000,
+    "sho'rva":25000,
+    "lag'mon":25000,
+    "chuchvara":20000,
+    "kabob":45000,
+    "baliq":40000,
+    "norin":30000
+    }
+buyurtmalar=[]
+print("3-ta taom buyurtma bering!")
+for taom in range(3):
+    buyurtmalar.append(input(f"{taom+1}-chi taom: ").lower())
+for buyurtma in buyurtmalar:
+    if buyurtma in restoran_menusi:
+        print(buyurtma,restoran_menusi[buyurtma],"so'm")
+    else:
+        print("Kechirasiz bizda",buyurtma,"yoq!")
 
 
 
