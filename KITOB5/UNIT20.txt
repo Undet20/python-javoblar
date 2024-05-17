@@ -1,0 +1,40 @@
+⚡️/aggregate — bir butun, agregat
+— When a number is aggregate, it is made up of smaller amounts added together.
+⚡️/antibiotic — antibiotik
+— An antibiotic is a medical drug used to kill bacteria and treat infections.
+⚡️/circuit — elektr zanjiri
+— A circuit is a piece of an electronic device that allows electricity to flow.
+⚡️/complement — yaxshilamoq, yanada go'zal qilmoq
+— To complement something or someone is to make them better.
+⚡️/compress — siqmoq, bosmoq
+— To compress something means to press or squeeze it so that it takes up less space. 
+⚡️/database — ma'lumotlar bazasi
+— A database is a collection of data that is stored in a computer.
+⚡️/equivalent — ekvivalent
+— An equivalent is an amount or value that is the same as another amount or value.
+⚡️/immune — immunitetli, ta'sirlanmaydigan
+— When someone is immune to a disease, they cannot be affected by it.
+⚡️/input — ma'lumot
+— Input is information that is put into a computer.
+⚡️/intimate — yaqin, sirdosh
+— When a relationship is intimate, the two things are very closely connected.
+⚡️/magnet — magnit
+— A magnet is a piece of iron or other material which attracts iron toward it.
+⚡️/metabolism — metabolizm
+— A person’s metabolism is the way chemical processes in their body use energy. 
+⚡️/microchip — mikrochip
+— A microchip is a small device inside a computer that holds information.
+⚡️/phase — bosqich
+— A phase is a stage in a process or the gradual development of something.
+⚡️/pinch — chimchilab olmoq
+— To pinch means to take a piece of skin between one’s fingers and squeeze.
+⚡️/prevalent — keng tarqalgan
+— When something is prevalent, it is common.
+⚡️/quantum — kvant
+— When something is quantum, it relates to the behavior of atomic particles.
+⚡️/ratio — nisbat
+— A ratio is a relationship between two things expressed in numbers or amounts. 
+⚡️/spiral — burama, spiral
+— A spiral is a shape which winds round and round in a larger and larger circle.
+⚡️/viral — virusli
+— When something is viral, it is a disease or infection that is caused by a virus.

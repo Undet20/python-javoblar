@@ -1,0 +1,40 @@
+⚡️/automobile — avtomobil
+— An automobile is a car.
+⚡️/candidate — nomzod, kandidat
+— A candidate is a person who is competing to win something such as a job. 
+⚡️/confidential — maxfiy
+— If something is confidential, it must be kept secret.
+⚡️/corporate — korporativ
+— If something is corporate, it is related to a large business.
+⚡️/enhance — yaxshilamoq, oshirmoq
+— To enhance something is to make it better.
+⚡️/era — davr, era
+— An era is a period of time that has something special about it.
+⚡️/guideline — yo'riqnoma, ko'rsatma
+— A guideline is a rule about how to do something.
+⚡️/incorporate — qo'shmoq
+— To incorporate is to add something to another thing.
+⚡️/interact — suhbatlashmoq
+— To interact is to talk to or do something with another person.
+⚡️/interval — tanaffus
+— An interval is the time between two things happening.
+⚡️/mobile — oson harakatlanadigan, mobil
+— If something is mobile, it can be moved easily.
+⚡️/modify — xiyol o'zgartirmoq
+— To modify something is to change it a little bit.
+⚡️/parallel — parallel
+— If two things are parallel, they are the same distance away from each other. 
+⚡️/phenomenon — hodisa, voqea
+— A phenomenon is something that can be seen as it is happening.
+⚡️/pollute — ifloslamoq
+— To pollute means to make air, water, or land dirty, unclean, or foul.
+⚡️/ridicule — masxara qilmoq
+— To ridicule is to make fun of something in a mean way.
+⚡️/solar — quyoshga oid, quyosh ...
+— If something is solar, it is related to the sun.
+⚡️/territory — hudud
+— A territory is a piece of land that belongs to a country but isn’t a state.
+⚡️/tournament — turnir, musobaqa
+— A tournament is a competition, usually with many people participating.
+⚡️/transportation — transport vositasi
+— Transportation is any type of vehicle that can carry people or things.

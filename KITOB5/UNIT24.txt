@@ -1,0 +1,40 @@
+⚡️/bankrupt — bankrot
+— If someone is bankrupt, then they are unable to pay their debts.
+⚡️/conform — rioya qilmoq
+— To conform to rules or laws is to obey them.
+⚡️/employ — ish bilan ta'minlamoq, ish bermoq
+— To employ someone means to give work to them.
+⚡️/expel — haydamoq, chiqarib yubormoq
+— To expel someone means to force them to leave a place.
+⚡️/extension — kengaytirish
+— An extension is a part added to something to give it more time or space.
+⚡️/forthcoming — bo'lajak, kelgusi
+— If something is forthcoming, then it is about to happen in the future.
+⚡️/furnish — mebellar bilan jihozlamoq
+— To furnish means to put furniture in a house or room.
+⚡️/hygiene — gigiena, ozodalik
+— Hygiene is the conditions or methods needed for health and cleanliness.
+⚡️/hygienic — gigienik, ozoda
+— If something is hygienic, then it is clean and unlikely to cause disease.
+⚡️/landlord — ijaraga beruvchi
+— A landlord is a man who rents property to a person.
+⚡️/lease — ijaraga olmoq
+— To lease means to rent property, usually an apartment or land.
+⚡️/mandatory — qonunda belgilangan
+— If something is mandatory, then it is required by law.
+⚡️/mend — tuzatmoq, yamamoq
+— To mend something means to fix it when it is broken or damaged.
+⚡️/mortgage — ipoteka, uy sotib olish uchun olingan qarz
+— A mortgage is a loan for property, especially homes and businesses.
+⚡️/personnel — kadrlar, xodimlar
+— Personnel are employees in a business.
+⚡️/plumbing — vodoprovod tizimi
+— Plumbing is the system of pipes used in a home to supply water.
+⚡️/tenant — ijarachi
+— A tenant is a person who rents property from a landlord.
+⚡️/trendy — rasm bo'lgan, urfga kirgan
+— If something is trendy, then it is very popular and new.
+⚡️/utility — kommunal xizmat, kommunal to'lov
+— A utility is a business that supplies services such as water or electricity.
+⚡️/whereby — tufayli, ... uchun
+— Whereby means by which or through which.

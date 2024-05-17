@@ -1,0 +1,40 @@
+⚡️/bloom — gullamoq
+— When a plant blooms, it makes flowers.
+⚡️/compact — ixcham
+— If something is compact, it is smaller than normal.
+⚡️/curl — jingala
+— A curl is a small piece of something with a round shape.
+⚡️/decay — parchalanish
+— To decay is to be destroyed naturally.
+⚡️/dessert — shirinlik
+— Dessert is a sweet food that you eat after a meal.
+⚡️/dip — botirmoq
+— To dip something is to put part of it into a liquid for a short time.
+⚡️/distant — uzoq
+— If something is distant, it is far away.
+⚡️/eclipse — tutilish
+— An eclipse is an occasion when the moon moves in front of the sun
+⚡️/fairy — farishta
+— A fairy is a small, magic creature with wings.
+⚡️/grace — viqor
+— Grace is a quality of moving in a smooth, relaxed and attractive way
+⚡️/leisure — dam olish
+— Leisure is time when you do not have to do work.
+⚡️/mankind — insoniyat
+— Mankind is all of the world’s people.
+⚡️/passion — ehtiros
+— Passion is a very strong feeling of wanting to do something.
+⚡️/pillow — yostiq
+— A pillow is something that you put your head on when you sleep.
+⚡️/pulse — zarba
+— A pulse is the beat of the heart.
+⚡️/refresh — yangilash
+— To refresh someone is to make them feel less hot or tired.
+⚡️/sneeze — aksirmoq
+— To sneeze is to suddenly blow air out of your nose and mouth.
+⚡️/spice — ziravorlar
+— A spice is a flavor for food and drinks.
+⚡️/whistle — hushtak
+— To whistle is to make a sound by putting your lips together and blowing.
+⚡️/wool — jun
+— Wool is the hair that a sheep has.

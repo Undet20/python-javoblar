@@ -1,0 +1,40 @@
+⚡️/altitude — balandlik
+— The altitude of a place is its height above sea level.
+⚡️/coastline — sohilning tuzilishi
+— A coastline is the outline of a country’s coast.
+⚡️/deter — yo'lidan qaytarmoq, oldini olmoq
+— To deter means to prevent or discourage someone from doing something.
+⚡️/devise — o'ylab topmoq
+— To devise something means to have an idea or plan about it in the mind.
+⚡️/expertise — bilim va tajriba
+— Expertise is the knowledge and skills to do something well.
+⚡️/fracture — yoriq, singan joy
+— A fracture is a crack or break in something.
+⚡️/impair — zarar yetkazmoq
+— To impair something means to damage it or make it worse.
+⚡️/implement — amalga oshirmoq
+— To implement something means to ensure that what has been planned is done. 
+⚡️/indigenous — mahalliy
+— If something is indigenous, it is originally from, or native to, a place.
+⚡️/insight — tushuncha
+— Insight is a deep and accurate understanding of something.
+⚡️/limb — katta shox-shabba
+— A limb is a large branch on a tree.
+⚡️/migraine — migren, kuchli bosh og'rig'i
+— A migraine is a painful headache that makes one feel sick.
+⚡️/optimism — optimizm, kelajakka umid qilish
+— Optimism is the feeling of being hopeful about the future or success of something. 
+⚡️/peculiar — g'alati
+— When something is peculiar, it is strange, sometimes in a bad way.
+⚡️/proficient — malakali, tajribali
+— When a person is proficient at something, they can do it well.
+⚡️/quest — izlanish, qidirish
+— A quest is a long and difficult search for something.
+⚡️/ridge — tizma, qirra
+— A ridge is a long, narrow piece of raised land.
+⚡️/spouse — turmush o'rtoq
+— A spouse is the person to whom someone is married.
+⚡️/thrust — zarba bermoq
+— To thrust means to push or move something quickly with a lot of force.
+⚡️/tolerate — toqat qilmoq, bardosh bermoq
+— To tolerate something means to be able to accept it even when it is unpleasant.
